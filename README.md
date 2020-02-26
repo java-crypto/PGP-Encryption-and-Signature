@@ -13,6 +13,7 @@ I changed the Bouncy Castle libraries from version 1.50 to 1.64 (and some source
 Mr. Haddad has choosen a <b>BSD-3 Licence</b> for his software.
 
 Links:
+
 Original Github-Repository: https://github.com/george-haddad/bouncycastle
 
 Articles from the author regarding PGP-Cryptography:
