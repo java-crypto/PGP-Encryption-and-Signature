@@ -4,13 +4,13 @@ Die Programme in diesem Repository stammen <b>nicht</b> von mir, sondern von Geo
 
 Ich habe die Programme von Bouncy Castle Version 1.50 auf Bouncy Castle Version 1.64 angepasst (und ein wenig vom Sourcecode, da einige Methoden inzwischen ungültig geworden sind) und alle notwendigen Libraries im Verzeichnis libs gespeichert.
 
-Herr Haddad hat seine Routinen unter die BSD-3-Lizenz gestellt.
+Herr Haddad hat seine Routinen unter die <b>BSD-3-Lizenz</b> gestellt.
 
 The software in this repository is not written by myself but of George Haddad who published them in his github repository and wrote some articles regarding PGP cryptography (please find the links below).
 
 I changed the Bouncy Castle libraries from version 1.50 to 1.64 (and some sourcecode to catch deprecated methods) and added all neccessary libraries in a subfolder "libs".
 
-Mr. Haddad has choosen a BSD-3 Licence for his software.
+Mr. Haddad has choosen a <b>BSD-3 Licence</b> for his software.
 
 Links:
 Original Github-Repository: https://github.com/george-haddad/bouncycastle
