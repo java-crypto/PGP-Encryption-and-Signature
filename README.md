@@ -14,6 +14,7 @@ Mr. Haddad has choosen a BSD-3 Licence for his software.
 
 Links:
 Original Github-Repository: https://github.com/george-haddad/bouncycastle
+
 Articles from the author regarding PGP-Cryptography:
 https://subversivebytes.wordpress.com/2012/12/06/pgp-cryptography-with-the-legion-of-the-bouncy-castle-part-1/
 https://subversivebytes.wordpress.com/2012/12/07/pgp-cryptography-with-the-legion-of-the-bouncy-castle-part-2/
