@@ -1,6 +1,6 @@
 # PGP-Encryption-and-Signature
 
-Die Programme in diesem Repository stammen nicht von mir sondern von George Haddad, der sie in seinem Github-Archiv und einer Artikelreihe beschrieben hat (Links siehe unten).
+Die Programme in diesem Repository stammen <u>nicht</u> von mir, sondern von George Haddad, der sie in seinem Github-Archiv und einer Artikelreihe beschrieben hat (Links siehe unten).
 
 Ich habe die Programme von Bouncy Castle Version 1.50 auf Bouncy Castle Version 1.64 angepasst (und ein wenig vom Sourcecode, da einige Methoden inzwischen ungültig geworden sind) und alle notwendigen Libraries im Verzeichnis libs gespeichert.
 
